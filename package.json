@@ -1,0 +1,40 @@
+{
+  "name": "learn_php8",
+  "version": "1.0.0",
+  "description": "PHP8 for Thomas More - 2ITF",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx mix watch",
+    "production": "npx mix --production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pverhaert/learn_php8.git"
+  },
+  "keywords": [
+    "PHP",
+    "Thomas",
+    "More",
+    "2ITF"
+  ],
+  "author": "Patrick Verhaert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pverhaert/learn_php8/issues"
+  },
+  "homepage": "https://github.com/pverhaert/learn_php8#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "browser-sync": "^2.27.7",
+    "browser-sync-webpack-plugin": "^2.3.0",
+    "laravel-mix": "^6.0.39",
+    "postcss": "^8.4.4",
+    "resolve-url-loader": "^4.0.0",
+    "sass": "^1.45.0",
+    "sass-loader": "^12.1.0",
+    "tailwindcss": "^3.0.1"
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.4.0"
+  }
+}

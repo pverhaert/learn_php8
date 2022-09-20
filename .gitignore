@@ -1,0 +1,5 @@
+/.idea
+/node_modules
+/fireworks
+
+/public_html/**/_*.*
