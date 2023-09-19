@@ -57,6 +57,14 @@
                 <img alt="Auto import" src="assets/PhpStorm/import.png">
             </a>
         </article>
+        <article>
+            <h3>Setup</h3>
+            <ul class="mb-4">
+                <li>Install Node dependencies with <code>npm install</code></li>
+                <li>Run <code>npm run watch</code> to compile the assets and automatically relaunch when a file is
+                    changed</li>
+            </ul>
+        </article>
     </div>
 </main>
 <?php include_once('shared/footer.php') ?>
