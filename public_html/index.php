@@ -11,7 +11,7 @@
     <p>Welcome to <b><i>2ITF - PHP8 Course</i></b>, the project site containing all the course examples and exercises (with
         preview) used in the PHP
         part of the course
-        <a href="https://itf-laravel-9.netlify.com/" target="_blank">Web Applications in PHP</a>.</p>
+        <a href="https://itf-laravel-10.netlify.com/" target="_blank">Web Applications in PHP</a>.</p>
     <h2>PhpStorm settings</h2>
     <p>The following PhpStorm settings (<b>menu <u>F</u>ile > <u>S</u>ettings</b>) are recommended for an improved
         development experience.

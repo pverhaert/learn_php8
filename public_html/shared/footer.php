@@ -4,6 +4,6 @@
             PHP <?= PHP_MAJOR_VERSION . '.' . PHP_MINOR_VERSION . '.' . PHP_RELEASE_VERSION ?>
         </a>
     </p>
-    <p class="">Michaël Cloots, Jordi De Roeck &amp; Patrick Verhaert</p>
+    <p class="">Vince Colson, Jordi De Roeck &amp; Patrick Verhaert</p>
 </footer>
 <script src="/js/app.js"></script>
