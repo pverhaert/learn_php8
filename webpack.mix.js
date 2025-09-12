@@ -10,7 +10,7 @@ mix.js('src/js/app.js', 'public_html/js')
         ]
     })
     .browserSync({
-        proxy: 'php8.test',
+        proxy: 'https://php8.test',
         port: 5500,
         notify: false,
         files: [
